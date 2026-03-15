@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Catchy !?",
+  "base_artist": "r-906",
+  "createdAt": "2026-03-15T13:42:10.823871Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dancin' (A Catchy Rhythm)",
+      "artist": "Disney",
+      "has_synced": true,
+      "path": "select/01_Dancin'_(A_Catchy_Rhythm)_Disney.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dancin’ (A Catchy Rhythm)",
+      "artist": "Sue Ann Carwell & Joey Diggs",
+      "has_synced": true,
+      "path": "select/02_Dancin’_(A_Catchy_Rhythm)_Sue_Ann_Carwell_&_Joey_Diggs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Catchy Song",
+      "artist": "Dillon Francis feat. T-Pain & That Girl Lay Lay",
+      "has_synced": true,
+      "path": "select/03_Catchy_Song_Dillon_Francis_feat._T-Pain_&_That_Girl_Lay_Lay.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Catchy Song (feat. T-Pain & That Girl Lay Lay)",
+      "artist": "Dillon Francis",
+      "has_synced": true,
+      "path": "select/04_Catchy_Song_(feat._T-Pain_&_That_Girl_Lay_Lay)_Dillon_Francis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dancin' (A Catchy Rhythm)",
+      "artist": "Joey Diggs feat. Sue Ann Carwell",
+      "has_synced": true,
+      "path": "select/05_Dancin'_(A_Catchy_Rhythm)_Joey_Diggs_feat._Sue_Ann_Carwell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Catchy Song",
+      "artist": "Dillon Francis feat. T‐Pain & That Girl Lay Lay",
+      "has_synced": true,
+      "path": "select/06_Catchy_Song_Dillon_Francis_feat._T‐Pain_&_That_Girl_Lay_Lay.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Catchy",
+      "artist": "Pizzicato Five",
+      "has_synced": false,
+      "path": "select/07_Catchy_Pizzicato_Five.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Catchy Song",
+      "artist": "Dillon Francis",
+      "has_synced": true,
+      "path": "select/08_Catchy_Song_Dillon_Francis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Catchy One",
+      "artist": "Sunrise Skater Kids",
+      "has_synced": false,
+      "path": "select/09_The_Catchy_One_Sunrise_Skater_Kids.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Catchy Hook",
+      "artist": "Karma",
+      "has_synced": false,
+      "path": "select/10_Catchy_Hook_Karma.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Catchy [Alternate Version]",
+      "artist": "Pizzicato Five",
+      "has_synced": false,
+      "path": "select/11_Catchy_[Alternate_Version]_Pizzicato_Five.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Catchy",
+      "artist": "Dr.Slim",
+      "has_synced": true,
+      "path": "select/12_Catchy_Dr.Slim.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Catchy Song (feat. T-Pain & That Girl Lay Lay) [From The LEGO® Movie 2: The Second Part - Original Motion Picture Soundtrack]",
+      "artist": "Dillon Francis, T-Pain, That Girl Lay Lay",
+      "has_synced": true,
+      "path": "select/13_Catchy_Song_(feat._T-Pain_&_That_Girl_Lay_Lay)_[From_The_LEGO®_Movie_2__The_Seco_Dillon_Francis,_T-Pain,_That_Girl_Lay_Lay.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Catchy Song (feat. T-Pain & That Girl Lay Lay) [From The LEGO® Movie 2",
+      "artist": "Dillon Francis, T-Pain, That Girl Lay Lay",
+      "has_synced": true,
+      "path": "select/14_Catchy_Song_(feat._T-Pain_&_That_Girl_Lay_Lay)_[From_The_LEGO®_Movie_2_Dillon_Francis,_T-Pain,_That_Girl_Lay_Lay.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Catchy Song",
+      "artist": "Dillon Francis, T-Pain, That Girl Lay Lay",
+      "has_synced": true,
+      "path": "select/15_Catchy_Song_Dillon_Francis,_T-Pain,_That_Girl_Lay_Lay.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Catchy !?",
+      "artist": "r-906",
+      "has_synced": false,
+      "path": "select/pl_01_Catchy_!_r-906.txt"
+    }
+  ]
+}
